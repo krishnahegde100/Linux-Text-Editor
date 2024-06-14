@@ -1,3 +1,3 @@
 # Linux-Compatible Text Editor Development in C
-Text editor built using only C
- Can create a new file, import existing , and edit/delete the files. Can search for a keyword in the file.
+• Developed a text editor in C with linked lists, integrating Linux terminal commands for an enhanced user experience.
+• Executed file handling in the text editor, optimizing I/O operations for text editing, with Linux system calls.
