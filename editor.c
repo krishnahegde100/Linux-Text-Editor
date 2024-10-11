@@ -3,6 +3,7 @@
 #include<stdlib.h>                            //used for system("clear") function
                             //used for getch function
 
+
 struct dll                    //definition of the structure double linked list
 {
 char s[200];                            //character array
